@@ -9,6 +9,7 @@
 ## JS
 - [前端漫游指南](https://github.com/mengxb/zenany.github.io/blob/master/_posts/about_frontend.md)
 - [阮一峰es6入门](https://es6.ruanyifeng.com/#docs/decorator)
+- [JS浮点数陷阱及解决方案](https://github.com/camsong/blog/issues/9)
 
 ## 设计模式
 - [观察者模式 vs 订阅发布模式](https://zhuanlan.zhihu.com/p/51357583)
