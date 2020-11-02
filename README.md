@@ -13,6 +13,9 @@
 - [前端漫游指南](https://github.com/mengxb/zenany.github.io/blob/master/_posts/about_frontend.md)
 - [阮一峰 es6 入门](https://es6.ruanyifeng.com/#docs/decorator)
 - [JS 浮点数陷阱及解决方案](https://github.com/camsong/blog/issues/9)
+- [JS 算法与数据结构](https://github.com/trekhleb/javascript-algorithms)
+- [awesome-typescript](https://github.com/semlinker/awesome-typescript)
+- [全栈修仙之路-重学前端](http://book.bugstack.cn/#s/6TAYl8NQ)
 
 ## 设计模式
 
