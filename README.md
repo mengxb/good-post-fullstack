@@ -16,6 +16,10 @@
 - [JS 算法与数据结构](https://github.com/trekhleb/javascript-algorithms)
 - [awesome-typescript](https://github.com/semlinker/awesome-typescript)
 - [全栈修仙之路-重学前端](http://book.bugstack.cn/#s/6TAYl8NQ)
+- [浏览器渲染原理](https://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=2655456269&idx=2&sn=051ce0f8d9cbe71fb389a5e6656699e0&chksm=bd72c07a8a05496c870eed9e28a3cd364e33dd828304d2793aada819a0842450bbd410cfbf4a&mpshare=1&scene=1&srcid=1130ywfpeXExbC5aBGeItCwl&sharer_sharetime=1606702284587&sharer_shareid=2edbaf25040790d89558abc4cc220f00&key=963daa410b850ca8a43544346bb18a151cec84a193339e405788fec75bb9fbb3c60dde4aeb10484a85f6ed009e0b1f7a935abd3b4ef631badf4a9966b2776b08cc6c7406053bdcad663d087ae7936d1a2d9b8d1806559a437c3175a84d0e656848966f445df2a3eeeb6c40939cc16b82141d6b042d0e95dfaf4056e2d776712d&ascene=1&uin=MTI4Nzk2NTQ2MA%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AfNaTLCB6nFl4MO4lrmojKc%3D&pass_ticket=0w1%2BWd2dN6ocyg5zDHMaodpOawej1sCHVZTatencUYSjih2ZZwNO6c0E1qOV7hsy&wx_header=0)
+
+## CSS
+-[2020年你不应该错过的CSS新特性](https://juejin.cn/post/6886258269137043464)
 
 ## 设计模式
 
@@ -56,11 +60,16 @@
 
 - [itbook.download](https://itbook.download/)
 - [技术类精华电子书](https://github.com/biaochenxuying/awesome-books)
+- [ePUBee电子书库](http://cn.epubee.com/books/)
 
 ## 前端追踪站点
 
 - [前端早读课]
 - [JS weekly](https://javascriptweekly.com/)
 - [CSS Tricks](https://css-tricks.com/)
+
+## 深度学习
+- [动手学深度学习](https://zh-v2.d2l.ai/)
+  
 
 ## 个人成长
